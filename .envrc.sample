@@ -1,0 +1,4 @@
+export SIMPLENOTE_USERNAME="foo@exapmle.com"
+export SIMPLENOTE_PASSWORD="password"
+export SIMPLENOTE_UPDATED_TAG="updated"
+export SIMPLENOTE_ARCHIVE_TAG="archived"
